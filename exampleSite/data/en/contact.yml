@@ -14,7 +14,7 @@ contact:
   - icon: ti-email
     info: 'Email: info@commonsort.com'
   contact_form:
-    enable: true
+    enable: false
     form_action: "#"
     name: Your Name
     email: Your Email
