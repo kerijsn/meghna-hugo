@@ -2,7 +2,6 @@
 author = ""
 date = ""
 description = ""
-draft = true
 image = ""
 image_webp = "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
 title = "COVID-19 Statement"
