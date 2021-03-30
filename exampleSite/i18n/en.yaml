@@ -1,6 +1,4 @@
 ---
-- id: blogTitle
-  translation: Latest Post
 - id: readMore
   translation: Read more
 - id: viewAllPost
@@ -19,7 +17,5 @@
   translation: Service
 - id: portfolio
   translation: Portfolio
-- id: pricing
-  translation: Pricing
 - id: contact
   translation: Contact
