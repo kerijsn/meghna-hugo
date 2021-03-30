@@ -1,5 +1,5 @@
 baseURL = "https://common-sort.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
@@ -84,7 +84,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "images/logo.png"
+logo = "/images/commonsort_white-1.png"
 post_share = true
 [params.cookies]
 enable = false
