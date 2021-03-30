@@ -2,7 +2,6 @@
 author = "Common Sort"
 date = ""
 description = ""
-draft = true
 image = "/images/junko-nakase-q-72wa9-7dg-unsplash.jpg"
 image_webp = ""
 title = "How to Sell to Us..."
