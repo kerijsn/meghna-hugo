@@ -8,4 +8,4 @@ cta:
   button:
     enable: true
     label: How to sell to us...
-    link: "#contact"
+    link: https://common-sort-test.netlify.app/blog/how-to-sell-to-us/
