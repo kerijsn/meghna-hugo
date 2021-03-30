@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
   bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
-  icon: "/images/commonsort_white.png"
+  icon: ''
   title: Buy Sell Trade
   content: We are currently buying for SUMMER
   button:
