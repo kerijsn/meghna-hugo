@@ -4,7 +4,7 @@ cta:
   bg_image: "/images/eugene-chystiakov-qel0vl0ak7g-unsplash.jpg"
   bg_image_webp: "/images/eugene-chystiakov-qel0vl0ak7g-unsplash.jpg"
   title: We are currently buying for SUMMER
-  content: Learn more
+  content: ''
   button:
     enable: true
     label: How to sell to us...
