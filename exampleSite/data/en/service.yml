@@ -1,6 +1,6 @@
 ---
 service:
-  enable: true
+  enable: false
   title: Book a Selling Appointment
   service_item:
   - name: ''
