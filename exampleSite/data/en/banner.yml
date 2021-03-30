@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image_webp: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
+  bg_image: "/images/hannah-morgan-ycvfts5ma4s-unsplash.jpg"
   icon: ''
   title: Buy Sell Trade
   content: We are currently buying for SUMMER
