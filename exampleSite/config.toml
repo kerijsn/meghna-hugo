@@ -8,15 +8,15 @@ themesDir = "../.."
 title = "Common Sort"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = ""
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [[Languages.en.menu.main]]
-name = "about"
+name = "selling guide"
 pre = "#"
-url = "about"
+url = "https://common-sort-test.netlify.app/blog/how-to-sell-to-us/"
 weight = 1
 [[Languages.en.menu.main]]
 name = "services"
@@ -48,11 +48,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[Languages.en.menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [Languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
