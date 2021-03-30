@@ -9,4 +9,4 @@ banner:
   button:
     enable: true
     label: Book a Selling Appointment
-    link: "#services"
+    link: https://commonsort.appointedd.com/app/5ec2cad681e71f49064ada2f
