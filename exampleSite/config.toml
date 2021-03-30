@@ -152,11 +152,5 @@ link = "https://twitter.com/CommonSort?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7C
 icon = "ti-youtube"
 link = "#"
 [[params.social]]
-icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-dribbble"
-link = "#"
-[[params.social]]
-icon = "ti-pinterest"
+icon = "ti-instagram"
 link = "#"
