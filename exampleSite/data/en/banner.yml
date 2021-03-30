@@ -8,5 +8,5 @@ banner:
   content: We are currently buying for SUMMER
   button:
     enable: true
-    label: Explore Us
+    label: Book a Selling Appointment
     link: "#services"
