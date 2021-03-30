@@ -1,8 +1,8 @@
 ---
 cta:
   enable: true
-  bg_image: images/backgrounds/bg-white-wall.jpg
-  bg_image_webp: images/backgrounds/bg-white-wall.webp
+  bg_image: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
+  bg_image_webp: "/images/priscilla-du-preez-my5cwtzhmni-unsplash.jpg"
   title: We are currently buying for SUMMER
   content: Learn more
   button:
