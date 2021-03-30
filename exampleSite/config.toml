@@ -144,7 +144,7 @@ enable = false
 preloader = "images/logo.png"
 [[params.social]]
 icon = "ti-facebook"
-link = "#"
+link = "https://www.facebook.com/commonsort/"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
