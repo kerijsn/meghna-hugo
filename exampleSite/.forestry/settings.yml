@@ -7,6 +7,13 @@ sections:
 - type: heading
   label: Blog Post
 - type: directory
+  path: ''
+  label: Page
+  create: all
+  match: "**/*"
+  templates:
+  - page
+- type: directory
   path: exampleSite/content/english/blog
   label: Post (en)
   create: documents
