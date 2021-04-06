@@ -48,12 +48,12 @@ pre {
 ::-moz-selection {
   /* Code for Firefox */
   color: #fff;
-  background: #57cbcc;
+  background: #f4868d;
 }
 
 ::selection {
   color: #fff;
-  background: #57cbcc;
+  background: #f4868d;
 }
 
 hr {
@@ -82,7 +82,7 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #6CB670;
+  color: 998632;
 }
 
 .kill-margin-bottom {
@@ -115,7 +115,7 @@ a:hover {
 
 .btn-transparent:hover,
 .btn-transparent:focus {
-  background-color: #57cbcc;
+  background-color: #f4868d;
   border: 1px solid transparent;
   color: #fff;
 }
@@ -163,11 +163,11 @@ a:hover {
 }
 
 .bg-one {
-  background-color: #353b43;
+  background-color: #131533;
 }
 
 .bg-dark {
-  background: #242930;
+  background: #131533;
 }
 
 .parallax-section {
@@ -215,11 +215,11 @@ a:hover {
 
 a:focus,
 a:hover {
-  color: #57cbcc;
+  color: #f4868d;
 }
 
 .btn-main {
-  background: #57cbcc;
+  background: #f4868d;
   color: #fff;
   display: inline-block;
   font-size: 14px;
@@ -229,7 +229,7 @@ a:hover {
 }
 
 .btn-main:hover {
-  background: #2c9091;
+  background: #eb1e25;
   color: #fff;
 }
 
@@ -307,11 +307,11 @@ a:hover {
 }
 
 .title h2 span {
-  color: #57cbcc;
+  color: #f4868d;
 }
 
 .title p {
-  color: #666;
+  color: #131533;
 }
 
 .title.title-white h2 {
@@ -352,7 +352,7 @@ a:hover {
 }
 
 .header-bradcrumb a:hover {
-  color: #57cbcc;
+  color: #f4868d;
 }
 
 .slick-slide {
@@ -460,7 +460,7 @@ a:hover {
 
 .hero-area .block .video-button {
   background: #fff;
-  color: #57cbcc;
+  color: #f4868d;
   display: inline-block;
   height: 60px;
   width: 60px;
@@ -1329,7 +1329,7 @@ a:hover {
 }
 
 .next-prev a:hover {
-  color: #57cbcc;
+  color: #f4868d;
 }
 
 .next-prev .prev-post i {
